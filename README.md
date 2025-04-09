@@ -141,14 +141,6 @@ Then visit 👉 [http://localhost:8084](http://localhost:8084)
 
 ---
 
-## 👩‍💻 Author
-
-Final Project – NLP & Machine Learning  
-Zijing Education × California Institute of Integral Studies  
-2025 • Windows-based Local AI Solutions
-
----
-
 ## 📄 License
 
 MIT License
